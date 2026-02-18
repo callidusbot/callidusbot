@@ -1,0 +1,165 @@
+[
+  {
+    "key": "infinity",
+    "title": "🇦 🇻 🇦 🇱 🇴 🇳",
+    "subtitle": "♾️ I N F I N I T Y G O L D ♾️",
+    "thread_name": "AVALON",
+    "emoji": "♾️",
+    "category": "content",
+    "order": 1,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 4},
+      {"role_name": "pierce", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "avalon",
+    "title": "🇦 🇻 🇦 🇱 🇴 🇳",
+    "subtitle": "",
+    "thread_name": "AVALON",
+    "emoji": "🇦",
+    "category": "content",
+    "order": 2,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 4},
+      {"role_name": "pierce", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "dungeon",
+    "title": "🇬 🇷 🇴 🇺 🇵 🇩 🇺 🇳 🇬 🇪 🇴 🇳",
+    "subtitle": "",
+    "thread_name": "DUNGEON",
+    "emoji": "🇬",
+    "category": "content",
+    "order": 3,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 2},
+      {"role_name": "pierce", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "kristal",
+    "title": "🇰 🇷 ℹ️ 🇸 🇹 🇦 🇱",
+    "subtitle": "",
+    "thread_name": "KRISTAL",
+    "emoji": "🇰",
+    "category": "content",
+    "order": 4,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 7},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "faction",
+    "title": "🇫 🇦 🇨 🇹 ℹ️ 🇴 🇳",
+    "subtitle": "",
+    "thread_name": "FACTION",
+    "emoji": "🇫",
+    "category": "content",
+    "order": 5,
+    "roles": [
+      {"role_name": "engage_tank", "capacity": 1},
+      {"role_name": "def_tank", "capacity": 5},
+      {"role_name": "dps", "capacity": 8},
+      {"role_name": "pierce", "capacity": 2},
+      {"role_name": "healer", "capacity": 4},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "track",
+    "title": "🇹 🇷 🇦 🇨 🇰",
+    "subtitle": "",
+    "thread_name": "TRACK",
+    "emoji": "🇹",
+    "category": "content",
+    "order": 6,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 4},
+      {"role_name": "pierce", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "statik",
+    "title": "🇸 🇹 🇦 🇹 ℹ️ 🇨",
+    "subtitle": "",
+    "thread_name": "STATIK",
+    "emoji": "🇸",
+    "category": "content",
+    "order": 7,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "sc", "capacity": 1},
+      {"role_name": "perma", "capacity": 1},
+      {"role_name": "wailing", "capacity": 3},
+      {"role_name": "fill", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "static_speed",
+    "title": "STATIC SPEED",
+    "subtitle": "",
+    "thread_name": "STATIC SPEED",
+    "emoji": "⚡",
+    "category": "content",
+    "order": 8,
+    "roles": [
+      {"role_name": "tank", "capacity": 1},
+      {"role_name": "dps", "capacity": 4},
+      {"role_name": "pierce", "capacity": 1},
+      {"role_name": "healer", "capacity": 1},
+      {"role_name": "fill", "capacity": 2}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  },
+  {
+    "key": "custom_all",
+    "title": "🎮 C U S T O M",
+    "subtitle": "Herkes istediği role katılabilir!",
+    "thread_name": "CUSTOM",
+    "emoji": "🎮",
+    "category": "content",
+    "order": 9,
+    "roles": [
+      {"role_name": "tank", "capacity": 999},
+      {"role_name": "def_tank", "capacity": 999},
+      {"role_name": "dps", "capacity": 999},
+      {"role_name": "pierce", "capacity": 999},
+      {"role_name": "healer", "capacity": 999}
+    ],
+    "base_points": 0,
+    "loot_bonus_points": 0
+  }
+]

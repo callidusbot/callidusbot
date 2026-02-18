@@ -1,0 +1,8 @@
+{
+  "voice": {
+    "puan_per_minute": 0.1,
+    "daily_max": 20,
+    "warning_threshold": 120,
+    "kick_threshold": 240
+  }
+}

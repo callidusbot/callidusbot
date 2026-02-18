@@ -1,0 +1,14 @@
+[
+  {
+    "event_id": "evt_1708200000",
+    "template_key": "aval_dungeon",
+    "started_by_name": "GuildMasterUser",
+    "started_at": 1708200000,
+    "thread_id": 123456789012345678,
+    "participants": [
+      "123456789",
+      "987654321"
+    ],
+    "status": "active"
+  }
+]

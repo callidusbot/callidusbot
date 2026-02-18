@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "callidusbot",
+  "private_key_id": "b513b6232c5ae52376b6b8bf8f29de8675ce148c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC69hZtOTmncnoT\nFQHlXF6aJRMHZGNRhxWsF88BR4XVdSrC77hX51xZM/qIli4xFzKn4VOoFPoxJkA4\nPIVFB5kOdzng3ElFq0YWxfm3ZLGWBF7pWl1r67/Sg+dCJxU+jNy4JUdpbOD8hnNx\njppD7SkA67+B9gKx4H3GZ/D/k/9QwA3tfMkbRDBcLBF/BLAWlAuYSEseJLVex8Yj\nWfOweNEymCiOWwUrL6ObuZeCJzIeMk0aN1Av/us+eqQ62/sth4IVpCJDqsUDeR8S\nW+jQ80F0phOsw9YJmg/6hH2wtluYvlNl5efe2FiN3G4dZLQcEq0YqMoNgNdksMvU\ncIfnadh3AgMBAAECggEANlRRww6okuDA2a+2m9SiRw/z/idtdyEWqqpGhNwoZ5XD\nRd+MhbrdSqzAppVhufFATqm7ejISXFr9uXnYzmz9TMdXweCxyDWTygVg4iq4Mlx1\nykDwue5JkV60QrSBx2n+r+JhZKD3plpZzMuAR7Hwwuw+/ACl2tPeKNxGm7aBsJCH\naZJaPc2kElfmRQttQkKt61WkIUfwMMwRdWrTDUOFVLZO63+tnb/EDUbkcBWym6vo\no+FVqBBgXFldh9D08bzW3yr2SoxAsRp8aj0ISEeKNbdIDQ4Pc3dAfRqBRRJ/LPpd\nuI3QbEXO1fXcQFXUd46U9sIXN0V9poOR4DA42Vzu2QKBgQDqNdB+EijybxX6oV8e\naIMFc8DwS/a57xLd0iNhcGkDB26diYkvsrd7Q4Fzn13d2e9cE7XG33vm429eeYGh\n2USSyF51GcMFIGDYYZTloAo4r4sfWa7zdnoCWKDmRgInx9RR/259LCcjfi45vMFU\nyGdap3fxF1RYJfsuJ2ccbLi5aQKBgQDMWvH1t0BwKqN1nSlwkARtHdH8gT5C1Nla\nQp/kL50+L6FDpLFzNz4foiwc/YcjHfN0HdlF7GMZeh6Ok3Kuu0dXo957L3n6Mc9a\nGRpfvj51p7Ghk5iO3PC5T7eJTuUn03KHTJHRTRmEbVfV6qDEaeif+ppcxxb4bSR+\n0pYV0wzm3wKBgBxgELZ1dMiKdNs8mc2RU+5hK8rxKR81u89sGiU//TkEuX4Un65L\ntLcWYqSjdjfeo4VAThGeGeDLRT7o8a+uJwSxieAeEuaYGaOdjvCTByn++pf9wZh1\njiqimjvL148CQtL8Y2J+6u795pPQLowbC4qMJ5fp/6n+UAQzeeaTtX2hAoGAIauC\nXkfZOCHuWLySTVeNQyU8qevphD1pqnN7wK8Pq2VRnsGN8zvQ4oln10b2cxTGPgWE\n/P5bvaDfVAJ7TMrSkGARkh5abJy0W1XzgH7p75y3qbWV10QT7ZRy2w7CtvMh1aUK\nCYA4ihcx96722iXRDDrQICU1Za0l7DdqPyJM5+UCgYBlDSsouXx7YF7V10AViKnq\nmNCjQLxAeod7aNHuK/aF58WwmesgVKpG+j2nwmuHoaIQBawAakEsbarv26khdne5\nYQNvzRa0P8pNH32C3qKCFxRth8C/kPhdgL7gaB62YRjMa5sOySmgFko8a3N9BeG+\nfm15L5L1ffoawyFSq65asA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "callidus-sheets@callidusbot.iam.gserviceaccount.com",
+  "client_id": "112655268457942685092",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/callidus-sheets%40callidusbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

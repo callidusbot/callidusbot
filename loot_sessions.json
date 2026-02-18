@@ -1,0 +1,21 @@
+{
+  "1473484228023812167": {
+    "content_name": "AVALON",
+    "thread_id": 1473484147984171158,
+    "loot_channel_msg_id": 1473484228023812167,
+    "thread_msg_id": 1473484230465159259,
+    "total_loot": 26,
+    "per_person_loot": 26,
+    "participant_ids": [
+      303066792698314752
+    ],
+    "claimed_ids": [
+      303066792698314752
+    ],
+    "created_at": "2026-02-18T01:00:15.846423+00:00",
+    "created_by": 303066792698314752,
+    "sheet_loot_col": 2,
+    "sheet_tick_col": 3,
+    "finalized": true
+  }
+}
